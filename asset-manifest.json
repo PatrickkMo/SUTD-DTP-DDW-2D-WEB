@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SUTD-DTP-DDW-2D-Website/static/css/main.f01c4c6c.css",
+    "main.js": "/SUTD-DTP-DDW-2D-Website/static/js/main.9ec1a09e.js",
+    "static/js/787.85c9231d.chunk.js": "/SUTD-DTP-DDW-2D-Website/static/js/787.85c9231d.chunk.js",
+    "static/media/4.png": "/SUTD-DTP-DDW-2D-Website/static/media/4.8cc438723082c9112423.png",
+    "static/media/2.png": "/SUTD-DTP-DDW-2D-Website/static/media/2.d049a4170b91731e597d.png",
+    "static/media/1.png": "/SUTD-DTP-DDW-2D-Website/static/media/1.77c10a65c31738b78cfc.png",
+    "static/media/5.png": "/SUTD-DTP-DDW-2D-Website/static/media/5.9675008f5b3674a73989.png",
+    "static/media/ANSLEY.png": "/SUTD-DTP-DDW-2D-Website/static/media/ANSLEY.e32101e5ab5a161f02c4.png",
+    "static/media/3.png": "/SUTD-DTP-DDW-2D-Website/static/media/3.a45c5ce39f7c96e63a61.png",
+    "static/media/ABHIJITH.png": "/SUTD-DTP-DDW-2D-Website/static/media/ABHIJITH.2cd961330ac7b76bfccf.png",
+    "static/media/AARON.png": "/SUTD-DTP-DDW-2D-Website/static/media/AARON.c6bd3c7fe6ce5dba3f1f.png",
+    "static/media/PATRICK.png": "/SUTD-DTP-DDW-2D-Website/static/media/PATRICK.03dfa4d8cc6f065c83fc.png",
+    "static/media/STEFANIE.png": "/SUTD-DTP-DDW-2D-Website/static/media/STEFANIE.a73891ba188e796a61f0.png",
+    "static/media/Picture11.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture11.eda75ba4f9035091617e.png",
+    "static/media/Picture13.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture13.05b1703a5b416b86fc7c.png",
+    "static/media/Picture7.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture7.1a9de55da0544d979060.png",
+    "static/media/Picture12.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture12.1e96c2304033d4f71b85.png",
+    "static/media/Picture8.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture8.0896bf2b2f7cec8482a4.png",
+    "static/media/Picture9.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture9.74f79b57e194dfab7c56.png",
+    "static/media/Residual.jpeg": "/SUTD-DTP-DDW-2D-Website/static/media/Residual.95aa6863db6951ecac72.jpeg",
+    "static/media/Picture10.png": "/SUTD-DTP-DDW-2D-Website/static/media/Picture10.5c4d5afc8aaa8c05ae72.png",
+    "index.html": "/SUTD-DTP-DDW-2D-Website/index.html",
+    "main.f01c4c6c.css.map": "/SUTD-DTP-DDW-2D-Website/static/css/main.f01c4c6c.css.map",
+    "main.9ec1a09e.js.map": "/SUTD-DTP-DDW-2D-Website/static/js/main.9ec1a09e.js.map",
+    "787.85c9231d.chunk.js.map": "/SUTD-DTP-DDW-2D-Website/static/js/787.85c9231d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01c4c6c.css",
+    "static/js/main.9ec1a09e.js"
+  ]
+}
